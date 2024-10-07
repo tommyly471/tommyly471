@@ -1,6 +1,21 @@
-      Hello! I'm Tommy Ly, a dedicated computer science student at the University of Texas at Austin, driven by a passion for turning ideas into tangible solutions through coding. My journey in computer science has been an exploration of diverse domains, from game development to web development and data science. I believe in the power of technology to transform lives, and I am committed to honing my skills to contribute meaningfully to this transformative field. As I progress through my academic journey, I am constantly seeking new challenges and opportunities to expand my knowledge and expertise. Outside of academics, I am an active member of various clubs and organizations, including Freetail Hackers, Electronic Game Developers Society, and UTCS Competitive Programming Club. These experiences not only enrich my learning but also allow me to collaborate with peers who share my enthusiasm for technology. With a solid foundation in languages such as Python, C, C++, and Java, as well as experience with technologies like Git, Godot Engine, and data science tools, I am equipped to tackle complex problems and bring innovative ideas to life. Driven by a desire to make a positive impact, I have undertaken internships, such as my role as an Electric Vehicle Customer Solutions Intern at Ford Motor Company, where I identified and addressed customer issues, demonstrating my ability to apply my skills in real-world settings. As I look towards the future, I am excited about the endless possibilities that lie ahead in the world of computer science. Whether it's developing captivating games, building intuitive web applications, or delving into the depths of data analysis, I am eager to continue my journey of learning, growth, and innovation.
+# Hi, I'm Tommy Ly
 
-<!---
-tommyly471/tommyly471 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a computer science student at the **University of Texas at Austin**, passionate about turning ideas into real-world solutions through code. My academic journey has given me the chance to explore a wide range of areas, from **game development** to **web development** and **data science**. I’m driven by the belief that technology can make a meaningful difference in people’s lives, and I’m constantly looking for ways to improve my skills to contribute to that vision.
+
+### What I Do:
+I love tackling new challenges and learning through hands-on experience. I’m actively involved in organizations like **Freetail Hackers**, **Electronic Game Developers Society**, and the **UTCS Competitive Programming Club**. These activities allow me to collaborate with others who share my passion for technology and problem-solving.
+
+### Skills & Tools:
+- **Languages:** Python, C, C++, Java, JavaScript, SQL, C#
+- **Technologies:** Git, Godot Engine, CoreData, Firebase, Machine Learning, Data Science Tools
+- **Areas of Interest:** Game Development, Web Development, Data Science, Cloud Computing
+
+### Experience:
+As an **Electric Vehicle Customer Solutions Intern** at **Ford Motor Company**, I helped identify and resolve key customer issues with electric vehicles. This role taught me how to apply my technical skills in real-world scenarios and collaborate with cross-functional teams.
+
+I’ve also worked on personal projects like developing a **3D platformer game** and building an **iOS social app**. Each project pushes me to learn new technologies and solve complex problems. For more details on my work, check out my portfolio: [TommyLyPortfolio.com](http://TommyLyPortfolio.com)
+
+### What's Next:
+I’m always looking for opportunities to grow as a developer, whether that’s through building new products, working with data, or learning the latest technologies. I’m excited about the future of tech and the ways I can contribute to it.
+
+Feel free to connect with me on [LinkedIn](http://linkedin.com/in/tommyly) or explore my projects on [GitHub](http://github.com/tommyly471)!
